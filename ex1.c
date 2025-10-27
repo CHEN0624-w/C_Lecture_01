@@ -1,3 +1,5 @@
+//数值读取
+
 #include <stdio.h>
 
 int main()
